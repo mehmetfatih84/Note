@@ -8,19 +8,24 @@ React-Select: Seçim kutularını oluşturmak için kullanılan bir kütüphane,
 UUID: Eşsiz kimlikler oluşturmak için kullanılan kütüphane, notların benzersiz kimliklerini oluşturmak için kullanıldı.
 React-Router-Dom: React uygulamalarında sayfa yönlendirmesi yapmak için kullanılan bir kütüphane.
 Nasıl Çalıştırılır
+
 Depoyu klonlayın:
 Copy code
 git clone https://github.com/sizin-kullanıcı-adınız/not-uygulaması.git
+
 Proje dizinine gidin:
 Copy code
 cd not-uygulaması
+
 Gerekli bağımlılıkları yükleyin:
 Copy code
 npm install
+
 Uygulamayı başlatın:
 Copy code
 npm start
 Tarayıcınızda http://localhost:3000 adresine gidin.
+
 Özellikler
 Not Ekleme: Yeni notlar eklemek için "Yeni Not Ekle" düğmesine tıklayabilirsiniz. Notunuzun başlığını, içeriğini ve isteğe bağlı olarak bir kategorisini girebilirsiniz.
 Not Düzenleme: Varolan bir notu düzenlemek için, notun başlığına veya içeriğine tıklayarak düzenleme moduna geçebilirsiniz. Değişiklikleri kaydetmek için "Kaydet" düğmesine tıklayabilirsiniz.
